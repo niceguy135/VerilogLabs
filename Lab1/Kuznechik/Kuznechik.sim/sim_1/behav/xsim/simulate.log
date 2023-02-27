@@ -1,0 +1,27 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Testbench has been started.
+Resetting
+Trying to cipher           0 chunk of data
+Trying to cipher           1 chunk of data
+Trying to cipher           2 chunk of data
+Trying to cipher           3 chunk of data
+Trying to cipher           4 chunk of data
+Trying to cipher           5 chunk of data
+Trying to cipher           6 chunk of data
+Trying to cipher           7 chunk of data
+Trying to cipher           8 chunk of data
+Trying to cipher           9 chunk of data
+Trying to cipher          10 chunk of data
+Ciphering has been finished.
+============================
+===== Ciphered message =====
+============================
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you     
+============================
+$finish called at time : 18385 ns : File "C:/Users/02dan/Verilog/Kuznechik/Kuznechik.srcs/sim_1/new/testbench.sv" Line 84
